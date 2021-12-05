@@ -13,5 +13,8 @@ Atualmente sou Desenvolvedor Front End Júnior na empresa **[BH Softwares](https
 ![gesiellucas casa](https://img.shields.io/badge/Pão_de_queijo-cafezinho-orange) <br />
 Belo Horizonte/MG
 
-### Contate me pelo e-emails 📫
+### Informações e estatísticas
+[![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gesiellucas&layout=compact&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+
+### Contate me pelo e-mail 📫
 gesiel.lucas.f@gmail.com
