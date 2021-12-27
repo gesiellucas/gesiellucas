@@ -1,5 +1,5 @@
 
-![gesiellucas banner profile](https://raw.githubusercontent.com/gesiellucas/gesiellucas/main/img/capa.png)
+![gesiellucas banner profile](https://raw.githubusercontent.com/gesiellucas/gesiellucas/main/img/capa.jpg)
 [![website badge](https://img.shields.io/badge/website-luacolaborativa.com.br-informational?style=for-the-badge)](https://luacolaborativa.com.br/)
 [![linkedin badge](https://img.shields.io/badge/linkedin-@gesiel_lucas-success?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gesiel-lucas/)
 
