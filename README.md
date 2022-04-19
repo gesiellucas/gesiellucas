@@ -2,7 +2,7 @@
 > O sentir é um mar profundo - Baco Exu do Blues 
 
 ## Hello there 👋 I'm Gesiel Lucas
-Change the strategy sometimes it's need to achieve different results. 
+To change the strategy sometimes it's need to achieve different results. 
 
 ### Tools & Skills
 I can work with Laravel, React, MySql, WordPress, API REST, Docker. All my strongest skills you can see at **[Stack Share](https://stackshare.io/gesiellucas)**. 
