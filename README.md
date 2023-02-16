@@ -2,14 +2,13 @@
 > O sentir é um mar profundo - Baco Exu do Blues 
 
 ## Hello there 👋 I'm Gesiel Lucas
-To change the strategy sometimes it's need to achieve different results. 
+The root of suffering is attachment.
 
 ### Tools & Skills
-I can work with Laravel, React, MySql, WordPress, API REST, Docker. All my strongest skills you can see at **[Stack Share](https://stackshare.io/gesiellucas)**. 
+I can work with Laravel, VueJS, MySql, WordPress, API REST, Docker. All my strongest skills you can check at **[Stack Share](https://stackshare.io/gesiellucas)**. 
 
 ### Studies
-Introducing myself into blockchain techonlogies. #solidity #web3 \
-Learning C# too.
+I'm getting envolved into software engineering, so I have been studied and put in practice choose best solutions and technologies to obtain a robust product.
 
 ### Living in Brazil 🏠
 ![gesiellucas home](https://img.shields.io/badge/Pão_de_queijo-cafezinho-orange) <br />
