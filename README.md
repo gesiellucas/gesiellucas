@@ -3,6 +3,8 @@
 
 ## Hello there 👋 I'm Gesiel Lucas
 The root of suffering is attachment.
+### Passionate with:
+- PHP <3
 
 ### Tools & Skills
 I can work with Laravel, VueJS, MySql, WordPress, API REST, Docker. All my strongest skills you can check at **[Stack Share](https://stackshare.io/gesiellucas)**. 
